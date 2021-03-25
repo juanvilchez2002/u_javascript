@@ -70,3 +70,15 @@ console.log(typeof x);
 var y = null;
 console.log(y);
 console.log(typeof y);
+
+//tipo array, son en realidad de tipo object
+var autos = ['BMW', 'Audi', 'Volvo'];
+
+console.log(autos);
+console.log(typeof autos);
+
+//tipo empty, son cadenas vacias ''
+var z= '';
+
+console.log(z);
+console.log(typeof z);
